@@ -1,4 +1,4 @@
-<h1 style="font-size: 2.5em;">BlinkIT Sales Analysis</h1>
+<h1 style="font-size: 2.5em;">Blinkit Sales Analysis</h1>
 
 <p style="font-size: 1.2em;">This repository contains the BlinkIT Sales Analysis Power BI report. The report provides insights into the sales performance, trends, and key metrics for BlinkIT.</p>
 
