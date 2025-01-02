@@ -20,7 +20,7 @@
 
 <ol style="font-size: 1.2em;">
   <li>Clone the repository to your local machine using the following command:
-    <pre><code>git clone https://github.com/yourusername/BlinkIT-Sales-Analysis.git</code></pre>
+    <pre><code>git clone https://github.com/treesa64/BlinkIT-Sales-Analysis.git</code></pre>
   </li>
   <li>Navigate to the directory where the repository is cloned:
     <pre><code>cd BlinkIT-Sales-Analysis</code></pre>
@@ -73,7 +73,7 @@
 
 <h2 style="font-size: 2em;">Contact</h2>
 
-<p style="font-size: 1.2em;">For any questions or feedback, please contact [your name] at [your email].</p>
+<p style="font-size: 1.2em;">For any questions or feedback, please contact Treesa at treesa590@gmail.com.</p>
 
 <hr style="font-size: 1.2em;" />
 
